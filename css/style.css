@@ -58,7 +58,7 @@ h1 img {
     height: 400px;
     margin: auto;
     padding: auto;
-    background-image: url(/images/main-visual.jpg);
+    background-image: url(../images/main-visual.jpg);
 }
 #mian-visual p {
     font-size: 40px;
