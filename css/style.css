@@ -71,8 +71,8 @@ h1 img {
 }
 .event {
     position: absolute;
-    top: 90px;
-    left: 1020px;
+    margin-left: 700px;
+    top: 200px;
 }
 #contents {
     margin: auto;
